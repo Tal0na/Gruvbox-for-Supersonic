@@ -1,0 +1,22 @@
+[SupersonicTheme]
+Name = "Gruvbox Light Purple"
+Version = "0.2"
+SupportsDark = false
+SupportsLight = true
+
+[LightColors]
+PageBackground = "#fbf1c7"
+InputBackground = "#ebdbb2"
+InputBorder = "#d5c4a1"
+MenuBackground = "#ebdbb2"
+OverlayBackground = "#fbf1c7"
+Pressed = "#d5c4a1"
+ListHeader = "#fbf1c7"
+PageHeader = "#fbf1c7"
+Background = "#fbf1c7"
+ScrollBar = "#bdae93"
+Button = "#ebdbb2"
+DisabledButton = "#d5c4a1"
+Separator = "#d5c4a1"
+Foreground = "#3c3836"
+Hyperlink = "#8f3f71"
