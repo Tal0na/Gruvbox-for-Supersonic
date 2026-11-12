@@ -1,0 +1,22 @@
+[SupersonicTheme]
+Name = "Gruvbox Material Dark Red"
+Version = "0.2"
+SupportsDark = true
+SupportsLight = false
+
+[DarkColors]
+PageBackground = "#1d2021"
+InputBackground = "#282828"
+InputBorder = "#45403d"
+MenuBackground = "#282828"
+OverlayBackground = "#232625"
+Pressed = "#32302f"
+ListHeader = "#282828"
+PageHeader = "#282828"
+Background = "#282828"
+ScrollBar = "#5a524c"
+Button = "#32302f"
+DisabledButton = "#232625"
+Separator = "#45403d"
+Foreground = "#d4be98"
+Hyperlink = "#fb4934"
